@@ -49,9 +49,6 @@ center {
 a img {
   border: none; }
 
-p {
-  margin: 0 0 0 10px;
-  Margin: 0 0 0 10px; }
 
 table {
   border-spacing: 0;
@@ -321,9 +318,8 @@ th.large-5 center {
 
 td.large-6,
 th.large-6 {
-  width: 274px;
-  padding-left: 8px;
-  padding-right: 8px; }
+  width: 300px;
+ }
 
 td.large-6.first,
 th.large-6.first {
@@ -537,9 +533,8 @@ th.large-11 center {
 
 td.large-12,
 th.large-12 {
-  width: 564px;
-  padding-left: 8px;
-  padding-right: 8px; }
+  width: 600px;
+ }
 
 td.large-12.first,
 th.large-12.first {
@@ -965,8 +960,8 @@ span.preheader {
 
 table.button {
   width: auto;
-  margin: 0 0 16px 0;
-  Margin: 0 0 16px 0; }
+  margin: 20px 0 20px 0;
+  Margin: 20px 0 20px 0; }
   table.button table td {
     text-align: left;
     color: #fefefe;
